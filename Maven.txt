@@ -1,0 +1,51 @@
+maven(14/04)
+
+maven is a build tool and project management tool
+
+to understand system level language we can use maven
+ 
+that means maven converts machine level language to system level language 
+
+developer push the code into git hub->we take the code from git hub and build the code/take the output ->then we build in server
+and we up the server
+
+maven has pre-defined folder structure
+
+install your personal pc
+
+env variable
+M2_HOME
+C:\DEVOPS\Softy\apache-maven-3.8.1-bin\apache-maven-3.8.1
+
+SYSTEM VARIABLE
+EDIT
+NEW
+C:\DEVOPS\Softy\apache-maven-3.8.1-bin\apache-maven-3.8.1\bin
+ 1.Folder structure
+mvn archetype:generate
+
+2. Types of repos
+* central repo
+*local repo
+*remote repo
+
+
+create a new project folder in your pc
+newproject->paytm->flight
+goto cmd in folder path
+
+then create folder str;
+type
+mvn archetype:generate
+then Y
+
+crate your credentials
+
+then you got ur folder inside the new project folder ->main->src->app.Java
+
+
+
+
+
+
+
